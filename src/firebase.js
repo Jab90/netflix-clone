@@ -21,3 +21,6 @@ const auth = getAuth(app);
 const db = getFirestore(app);
 
 export { auth, db };
+
+
+// Deployed Link : https://netflix-clone-299c4.web.app/
